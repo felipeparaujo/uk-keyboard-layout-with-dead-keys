@@ -12,4 +12,4 @@ Edit with [Microsoft Keyboard Layout Creator 1.4](https://www.microsoft.com/en-u
 
 ## MacOS
 
-Edit with [Ukelele](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)
+Edit with [Ukelele](http://software.sil.org/ukelele/)
